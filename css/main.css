@@ -31,12 +31,12 @@ p{
 	padding: 1em;
 	margin-top: 1em;
 }
-/*
+
 .button:hover{
 	cursor: pointer;
 	animation: shake .1s infinite alternate;
 }
-*/
+
 
 @keyframes shake{
 	0%{
